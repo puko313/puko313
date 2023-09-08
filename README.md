@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+I am a senior Full Stack Engineer with a rich experience.
+I designed, developed, and maintained high-quality, scalable, and secure software solutions.
+I can collaborate with cross-functional teams to design and implement new features and functionality that meet the needs of our customers.
+I can use my communication/interpersonal skills to collaborate with a remote team and demonstrate excellent problem-solving and analytical skills to build creative solution.
+In my previous projects, I implemented a responsive interface using HTML, CSS, Sass and JavaScript, ensuring a smooth user experience across devices.
+I set up a MySQL database to store user data, recommendations, and other pertinent information, ensuring efficient data management and database performance.
 <!--
 **puko313/puko313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
