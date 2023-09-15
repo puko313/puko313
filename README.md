@@ -4,8 +4,13 @@
 
 🎓 I am a **Senior Full Stack Web Developer**
 I have a bachelor's degree in **Computer Science and Technology**.
+With a proven track record of creative problem-solving, unseen productivity, and mentorship, I excel in delivering solid solutions within tight timelines. 
+Whether it's a straightforward project or a complex challenge, you can count on me to quickly pick up and learn new skills, even when there isn't a clear solution in sight.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2019, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
+👍 Client satisfaction is my top priority, and I consider a project successful only when my clients are fully content with the outcome. 
+I place great emphasis on clear and consistent communication, ensuring that my clients and I are always on the same page. 
+I believe in providing quality services to quality clients, recognizing the value of fair compensation for excellent work.
+
 <br>
 
 ## 🛠️ Skills
@@ -110,8 +115,8 @@ I have a bachelor's degree in **Computer Science and Technology**.
 
 ## 🔗 Links
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dreamboat0412@gmail.com)
-[![skype](https://img.shields.io/badge/skype-%232E87FB.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/w5hop9B0lMc2)
-[![telegram](https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&=white)](https://t.me/iriswx999)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pa.mendoza319@gmail.com)
+[![skype](https://img.shields.io/badge/skype-%232E87FB.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/yjfihjnWnqEZ)
+[![telegram](https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&=white)](https://t.me/puko313)
 
 </p>
